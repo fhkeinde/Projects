@@ -1,0 +1,20 @@
+C:\test\Produits-High-Techs\Produits-High-Techs\bin\Debug\Produits-High-Techs.exe.config
+C:\test\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits-High-Techs.csprojResolveAssemblyReference.cache
+C:\test\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits_High_Techs.Client.FormIdentification.resources
+C:\test\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits_High_Techs.Client.FormGestion.resources
+C:\test\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits_High_Techs.Properties.Resources.resources
+C:\test\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits-High-Techs.csproj.GenerateResource.Cache
+C:\test\Produits-High-Techs\Produits-High-Techs\bin\Debug\Produits-High-Techs.exe
+C:\test\Produits-High-Techs\Produits-High-Techs\bin\Debug\Produits-High-Techs.pdb
+C:\test\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits-High-Techs.exe
+C:\test\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits-High-Techs.pdb
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\bin\Debug\Produits-High-Techs.exe.config
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits-High-Techs.exe
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits-High-Techs.pdb
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\bin\Debug\Produits-High-Techs.exe
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\bin\Debug\Produits-High-Techs.pdb
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits-High-Techs.csprojResolveAssemblyReference.cache
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits_High_Techs.Client.FormIdentification.resources
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits_High_Techs.Client.FormGestion.resources
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits_High_Techs.Properties.Resources.resources
+C:\Users\fhkei\OneDrive\Bureau\Projets Git\GestionProduits\Produits-High-Techs\Produits-High-Techs\obj\Debug\Produits-High-Techs.csproj.GenerateResource.Cache
